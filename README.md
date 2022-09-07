@@ -1,6 +1,7 @@
 # Nomad_Coders
 
-python 3.8.X
+### 환경설정
 
-import requests
-import BeautifulSoup
+1. python 3.8.X
+2. import requests
+3. import BeautifulSoup
