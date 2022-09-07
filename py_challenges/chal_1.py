@@ -1,5 +1,5 @@
 """
-3일차 과제
+과제 1
 """
 monthly_revenue = 5500000 # 수입
 monthly_expenses = 2700000 # 지출
